@@ -1,0 +1,17 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Development of a green venture classification method using
+  Natural Language Processing - BackEnd
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Rafael
+    family-names: Rahal
+  - given-names: Marcelo
+    family-names: Dias
+repository-code: 'https://github.com/rrrahal/tcc-modelo'
